@@ -1,0 +1,1059 @@
+                                                          "key.kind": "source.lang.swift.expr.call",
+                                                          "key.length": 47,
+                                                          "key.name": "self.productIDs.contains",
+                                                          "key.namelength": 24,
+                                                          "key.nameoffset": 4790,
+                                                          "key.offset": 4790,
+                                                          "key.substructure": [
+                                                            {
+                                                              "key.bodylength": 21,
+                                                              "key.bodyoffset": 4815,
+                                                              "key.kind": "source.lang.swift.expr.argument",
+                                                              "key.length": 21,
+                                                              "key.offset": 4815
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "key.bodylength": 296,
+                                                          "key.bodyoffset": 4839,
+                                                          "key.kind": "source.lang.swift.stmt.brace",
+                                                          "key.length": 298,
+                                                          "key.offset": 4838,
+                                                          "key.substructure": [
+                                                            {
+                                                              "key.bodylength": 235,
+                                                              "key.bodyoffset": 4874,
+                                                              "key.kind": "source.lang.swift.expr.call",
+                                                              "key.length": 242,
+                                                              "key.name": "Task",
+                                                              "key.namelength": 4,
+                                                              "key.nameoffset": 4868,
+                                                              "key.offset": 4868,
+                                                              "key.substructure": [
+                                                                {
+                                                                  "key.bodylength": 237,
+                                                                  "key.bodyoffset": 4873,
+                                                                  "key.kind": "source.lang.swift.expr.argument",
+                                                                  "key.length": 237,
+                                                                  "key.offset": 4873,
+                                                                  "key.substructure": [
+                                                                    {
+                                                                      "key.bodylength": 235,
+                                                                      "key.bodyoffset": 4874,
+                                                                      "key.kind": "source.lang.swift.expr.closure",
+                                                                      "key.length": 237,
+                                                                      "key.offset": 4873,
+                                                                      "key.substructure": [
+                                                                        {
+                                                                          "key.bodylength": 235,
+                                                                          "key.bodyoffset": 4874,
+                                                                          "key.kind": "source.lang.swift.stmt.brace",
+                                                                          "key.length": 237,
+                                                                          "key.offset": 4873,
+                                                                          "key.substructure": [
+                                                                            {
+                                                                              "key.bodylength": 0,
+                                                                              "key.bodyoffset": 4968,
+                                                                              "key.kind": "source.lang.swift.expr.call",
+                                                                              "key.length": 30,
+                                                                              "key.name": "self.checkSubscriptionStatus",
+                                                                              "key.namelength": 28,
+                                                                              "key.nameoffset": 4939,
+                                                                              "key.offset": 4939
+                                                                            },
+                                                                            {
+                                                                              "key.bodylength": 45,
+                                                                              "key.bodyoffset": 5034,
+                                                                              "key.kind": "source.lang.swift.expr.call",
+                                                                              "key.length": 78,
+                                                                              "key.name": "NotificationCenter.default.post",
+                                                                              "key.namelength": 31,
+                                                                              "key.nameoffset": 5002,
+                                                                              "key.offset": 5002,
+                                                                              "key.substructure": [
+                                                                                {
+                                                                                  "key.bodylength": 26,
+                                                                                  "key.bodyoffset": 5040,
+                                                                                  "key.kind": "source.lang.swift.expr.argument",
+                                                                                  "key.length": 32,
+                                                                                  "key.name": "name",
+                                                                                  "key.namelength": 4,
+                                                                                  "key.nameoffset": 5034,
+                                                                                  "key.offset": 5034
+                                                                                },
+                                                                                {
+                                                                                  "key.bodylength": 3,
+                                                                                  "key.bodyoffset": 5076,
+                                                                                  "key.kind": "source.lang.swift.expr.argument",
+                                                                                  "key.length": 11,
+                                                                                  "key.name": "object",
+                                                                                  "key.namelength": 6,
+                                                                                  "key.nameoffset": 5068,
+                                                                                  "key.offset": 5068
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "key.bodylength": 0,
+                                      "key.bodyoffset": 5271,
+                                      "key.kind": "source.lang.swift.expr.call",
+                                      "key.length": 20,
+                                      "key.name": "transaction.finish",
+                                      "key.namelength": 18,
+                                      "key.nameoffset": 5252,
+                                      "key.offset": 5252
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "key.typename": "Task<Void, Never>"
+        },
+        {
+          "key.accessibility": "source.lang.swift.accessibility.internal",
+          "key.bodylength": 1181,
+          "key.bodyoffset": 5397,
+          "key.kind": "source.lang.swift.decl.function.method.instance",
+          "key.length": 1255,
+          "key.name": "purchase(_:)",
+          "key.namelength": 28,
+          "key.nameoffset": 5329,
+          "key.offset": 5324,
+          "key.substructure": [
+            {
+              "key.kind": "source.lang.swift.decl.var.parameter",
+              "key.length": 18,
+              "key.name": "product",
+              "key.offset": 5338,
+              "key.typename": "Product"
+            },
+            {
+              "key.bodylength": 82,
+              "key.bodyoffset": 5428,
+              "key.kind": "source.lang.swift.expr.call",
+              "key.length": 105,
+              "key.name": "AppLogger.shared.info",
+              "key.namelength": 21,
+              "key.nameoffset": 5406,
+              "key.offset": 5406,
+              "key.substructure": [
+                {
+                  "key.bodylength": 46,
+                  "key.bodyoffset": 5428,
+                  "key.kind": "source.lang.swift.expr.argument",
+                  "key.length": 46,
+                  "key.offset": 5428
+                },
+                {
+                  "key.bodylength": 24,
+                  "key.bodyoffset": 5486,
+                  "key.kind": "source.lang.swift.expr.argument",
+                  "key.length": 34,
+                  "key.name": "category",
+                  "key.namelength": 8,
+                  "key.nameoffset": 5476,
+                  "key.offset": 5476
+                }
+              ]
+            },
+            {
+              "key.kind": "source.lang.swift.decl.var.local",
+              "key.length": 41,
+              "key.name": "result",
+              "key.namelength": 6,
+              "key.nameoffset": 5533,
+              "key.offset": 5529
+            },
+            {
+              "key.bodylength": 0,
+              "key.bodyoffset": 5569,
+              "key.kind": "source.lang.swift.expr.call",
+              "key.length": 18,
+              "key.name": "product.purchase",
+              "key.namelength": 16,
+              "key.nameoffset": 5552,
+              "key.offset": 5552
+            },
+            {
+              "key.elements": [
+                {
+                  "key.kind": "source.lang.swift.structure.elem.expr",
+                  "key.length": 6,
+                  "key.offset": 5595
+                }
+              ],
+              "key.kind": "source.lang.swift.stmt.switch",
+              "key.length": 985,
+              "key.offset": 5588,
+              "key.substructure": [
+                {
+                  "key.elements": [
+                    {
+                      "key.kind": "source.lang.swift.structure.elem.pattern",
+                      "key.length": 26,
+                      "key.offset": 5617
+                    }
+                  ],
+                  "key.kind": "source.lang.swift.stmt.case",
+                  "key.length": 430,
+                  "key.offset": 5612,
+                  "key.substructure": [
+                    {
+                      "key.bodylength": 16,
+                      "key.bodyoffset": 5626,
+                      "key.kind": "source.lang.swift.expr.call",
+                      "key.length": 26,
+                      "key.name": ".success",
+                      "key.namelength": 8,
+                      "key.nameoffset": 5617,
+                      "key.offset": 5617,
+                      "key.substructure": [
+                        {
+                          "key.bodylength": 16,
+                          "key.bodyoffset": 5626,
+                          "key.kind": "source.lang.swift.expr.argument",
+                          "key.length": 16,
+                          "key.offset": 5626,
+                          "key.substructure": [
+                            {
+                              "key.kind": "source.lang.swift.decl.var.local",
+                              "key.length": 12,
+                              "key.name": "verification",
+                              "key.namelength": 12,
+                              "key.nameoffset": 5630,
+                              "key.offset": 5630
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "key.kind": "source.lang.swift.decl.var.local",
+                      "key.length": 49,
+                      "key.name": "transaction",
+                      "key.namelength": 11,
+                      "key.nameoffset": 5661,
+                      "key.offset": 5657
+                    },
+                    {
+                      "key.bodylength": 12,
+                      "key.bodyoffset": 5693,
+                      "key.kind": "source.lang.swift.expr.call",
+                      "key.length": 27,
+                      "key.name": "checkVerified",
+                      "key.namelength": 13,
+                      "key.nameoffset": 5679,
+                      "key.offset": 5679,
+                      "key.substructure": [
+                        {
+                          "key.bodylength": 12,
+                          "key.bodyoffset": 5693,
+                          "key.kind": "source.lang.swift.expr.argument",
+                          "key.length": 12,
+                          "key.offset": 5693
+                        }
+                      ]
+                    },
+                    {
+                      "key.bodylength": 14,
+                      "key.bodyoffset": 5801,
+                      "key.kind": "source.lang.swift.expr.call",
+                      "key.length": 44,
+                      "key.name": "processedTransactions.insert",
+                      "key.namelength": 28,
+                      "key.nameoffset": 5772,
+                      "key.offset": 5772,
+                      "key.substructure": [
+                        {
+                          "key.bodylength": 14,
+                          "key.bodyoffset": 5801,
+                          "key.kind": "source.lang.swift.expr.argument",
+                          "key.length": 14,
+                          "key.offset": 5801
+                        }
+                      ]
+                    },
+                    {
+                      "key.bodylength": 0,
+                      "key.bodyoffset": 5854,
+                      "key.kind": "source.lang.swift.expr.call",
+                      "key.length": 20,
+                      "key.name": "transaction.finish",
+                      "key.namelength": 18,
+                      "key.nameoffset": 5835,
+                      "key.offset": 5835
+                    },
+                    {
+                      "key.bodylength": 0,
+                      "key.bodyoffset": 5919,
+                      "key.kind": "source.lang.swift.expr.call",
+                      "key.length": 25,
+                      "key.name": "checkSubscriptionStatus",
+                      "key.namelength": 23,
+                      "key.nameoffset": 5895,
+                      "key.offset": 5895
+                    },
+                    {
+                      "key.bodylength": 36,
+                      "key.bodyoffset": 5974,
+                      "key.kind": "source.lang.swift.expr.call",
+                      "key.length": 78,
+                      "key.name": "AppLogger.shared.logSubscriptionPurchase",
+                      "key.namelength": 40,
+                      "key.nameoffset": 5933,
+                      "key.offset": 5933,
+                      "key.substructure": [
+                        {
+                          "key.bodylength": 10,
+                          "key.bodyoffset": 5985,
+                          "key.kind": "source.lang.swift.expr.argument",
+                          "key.length": 21,
+                          "key.name": "productId",
+                          "key.namelength": 9,
+                          "key.nameoffset": 5974,
+                          "key.offset": 5974
+                        },
+                        {
+                          "key.bodylength": 4,
+                          "key.bodyoffset": 6006,
+                          "key.kind": "source.lang.swift.expr.argument",
+                          "key.length": 13,
+                          "key.name": "success",
+                          "key.namelength": 7,
+                          "key.nameoffset": 5997,
+                          "key.offset": 5997
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key.elements": [
+                    {
+                      "key.kind": "source.lang.swift.structure.elem.pattern",
+                      "key.length": 14,
+                      "key.offset": 6069
+                    }
+                  ],
+                  "key.kind": "source.lang.swift.stmt.case",
+                  "key.length": 158,
+                  "key.offset": 6064,
+                  "key.substructure": [
+                    {
+                      "key.bodylength": 79,
+                      "key.bodyoffset": 6119,
+                      "key.kind": "source.lang.swift.expr.call",
+                      "key.length": 102,
+                      "key.name": "AppLogger.shared.info",
+                      "key.namelength": 21,
+                      "key.nameoffset": 6097,
+                      "key.offset": 6097,
+                      "key.substructure": [
+                        {
+                          "key.bodylength": 43,
+                          "key.bodyoffset": 6119,
+                          "key.kind": "source.lang.swift.expr.argument",
+                          "key.length": 43,
+                          "key.offset": 6119
+                        },
+                        {
+                          "key.bodylength": 24,
+                          "key.bodyoffset": 6174,
+                          "key.kind": "source.lang.swift.expr.argument",
+                          "key.length": 34,
+                          "key.name": "category",
+                          "key.namelength": 8,
+                          "key.nameoffset": 6164,
+                          "key.offset": 6164
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key.elements": [
+                    {
+                      "key.kind": "source.lang.swift.structure.elem.pattern",
+                      "key.length": 8,
+                      "key.offset": 6249
+                    }
+                  ],
+                  "key.kind": "source.lang.swift.stmt.case",
+                  "key.length": 142,
+                  "key.offset": 6244,
+                  "key.substructure": [
+                    {
+                      "key.bodylength": 69,
+                      "key.bodyoffset": 6293,
+                      "key.kind": "source.lang.swift.expr.call",
+                      "key.length": 92,
+                      "key.name": "AppLogger.shared.info",
+                      "key.namelength": 21,
+                      "key.nameoffset": 6271,
+                      "key.offset": 6271,
+                      "key.substructure": [
+                        {
+                          "key.bodylength": 33,
+                          "key.bodyoffset": 6293,
+                          "key.kind": "source.lang.swift.expr.argument",
+                          "key.length": 33,
+                          "key.offset": 6293
+                        },
+                        {
+                          "key.bodylength": 24,
+                          "key.bodyoffset": 6338,
+                          "key.kind": "source.lang.swift.expr.argument",
+                          "key.length": 34,
+                          "key.name": "category",
+                          "key.namelength": 8,
+                          "key.nameoffset": 6328,
+                          "key.offset": 6328
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key.elements": [
+                    {
+                      "key.kind": "source.lang.swift.structure.elem.pattern",
+                      "key.length": 7,
+                      "key.offset": 6417
+                    }
+                  ],
+                  "key.kind": "source.lang.swift.stmt.case",
+                  "key.length": 155,
+                  "key.offset": 6408,
+                  "key.substructure": [
+                    {
+                      "key.bodylength": 76,
+                      "key.bodyoffset": 6463,
+                      "key.kind": "source.lang.swift.expr.call",
+                      "key.length": 102,
+                      "key.name": "AppLogger.shared.warning",
+                      "key.namelength": 24,
+                      "key.nameoffset": 6438,
+                      "key.offset": 6438,
+                      "key.substructure": [
+                        {
+                          "key.bodylength": 40,
+                          "key.bodyoffset": 6463,
+                          "key.kind": "source.lang.swift.expr.argument",
+                          "key.length": 40,
+                          "key.offset": 6463
+                        },
+                        {
+                          "key.bodylength": 24,
+                          "key.bodyoffset": 6515,
+                          "key.kind": "source.lang.swift.expr.argument",
+                          "key.length": 34,
+                          "key.name": "category",
+                          "key.namelength": 8,
+                          "key.nameoffset": 6505,
+                          "key.offset": 6505
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "key.typename": "StoreKit.Transaction?"
+        },
+        {
+          "key.accessibility": "source.lang.swift.accessibility.internal",
+          "key.bodylength": 549,
+          "key.bodyoffset": 6627,
+          "key.kind": "source.lang.swift.decl.function.method.instance",
+          "key.length": 588,
+          "key.name": "restorePurchases()",
+          "key.namelength": 18,
+          "key.nameoffset": 6594,
+          "key.offset": 6589,
+          "key.substructure": [
+            {
+              "key.bodylength": 67,
+              "key.bodyoffset": 6658,
+              "key.kind": "source.lang.swift.expr.call",
+              "key.length": 90,
+              "key.name": "AppLogger.shared.info",
+              "key.namelength": 21,
+              "key.nameoffset": 6636,
+              "key.offset": 6636,
+              "key.substructure": [
+                {
+                  "key.bodylength": 31,
+                  "key.bodyoffset": 6658,
+                  "key.kind": "source.lang.swift.expr.argument",
+                  "key.length": 31,
+                  "key.offset": 6658
+                },
+                {
+                  "key.bodylength": 24,
+                  "key.bodyoffset": 6701,
+                  "key.kind": "source.lang.swift.expr.argument",
+                  "key.length": 34,
+                  "key.name": "category",
+                  "key.namelength": 8,
+                  "key.nameoffset": 6691,
+                  "key.offset": 6691
+                }
+              ]
+            },
+            {
+              "key.bodylength": 307,
+              "key.bodyoffset": 6739,
+              "key.kind": "source.lang.swift.stmt.brace",
+              "key.length": 309,
+              "key.offset": 6738,
+              "key.substructure": [
+                {
+                  "key.bodylength": 0,
+                  "key.bodyoffset": 6776,
+                  "key.kind": "source.lang.swift.expr.call",
+                  "key.length": 15,
+                  "key.name": "AppStore.sync",
+                  "key.namelength": 13,
+                  "key.nameoffset": 6762,
+                  "key.offset": 6762
+                },
+                {
+                  "key.bodylength": 0,
+                  "key.bodyoffset": 6841,
+                  "key.kind": "source.lang.swift.expr.call",
+                  "key.length": 25,
+                  "key.name": "checkSubscriptionStatus",
+                  "key.namelength": 23,
+                  "key.nameoffset": 6817,
+                  "key.offset": 6817
+                },
+                {
+                  "key.elements": [
+                    {
+                      "key.kind": "source.lang.swift.structure.elem.condition_expr",
+                      "key.length": 19,
+                      "key.offset": 6871
+                    }
+                  ],
+                  "key.kind": "source.lang.swift.stmt.if",
+                  "key.length": 89,
+                  "key.offset": 6868,
+                  "key.substructure": [
+                    {
+                      "key.bodylength": 18,
+                      "key.bodyoffset": 6872,
+                      "key.kind": "source.lang.swift.expr.argument",
+                      "key.length": 18,
+                      "key.offset": 6872
+                    },
+                    {
+                      "key.bodylength": 64,
+                      "key.bodyoffset": 6892,
+                      "key.kind": "source.lang.swift.stmt.brace",
+                      "key.length": 66,
+                      "key.offset": 6891
+                    }
+                  ]
+                },
+                {
+                  "key.bodylength": 13,
+                  "key.bodyoffset": 7023,
+                  "key.kind": "source.lang.swift.expr.call",
+                  "key.length": 54,
+                  "key.name": "AppLogger.shared.logSubscriptionRestore",
+                  "key.namelength": 39,
+                  "key.nameoffset": 6983,
+                  "key.offset": 6983,
+                  "key.substructure": [
+                    {
+                      "key.bodylength": 4,
+                      "key.bodyoffset": 7032,
+                      "key.kind": "source.lang.swift.expr.argument",
+                      "key.length": 13,
+                      "key.name": "success",
+                      "key.namelength": 7,
+                      "key.nameoffset": 7023,
+                      "key.offset": 7023
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key.elements": [
+                {
+                  "key.kind": "source.lang.swift.structure.elem.pattern",
+                  "key.length": 1,
+                  "key.offset": 7054
+                }
+              ],
+              "key.kind": "source.lang.swift.stmt.case",
+              "key.length": 123,
+              "key.offset": 7048,
+              "key.substructure": [
+                {
+                  "key.bodylength": 28,
+                  "key.bodyoffset": 7108,
+                  "key.kind": "source.lang.swift.expr.call",
+                  "key.length": 69,
+                  "key.name": "AppLogger.shared.logSubscriptionRestore",
+                  "key.namelength": 39,
+                  "key.nameoffset": 7068,
+                  "key.offset": 7068,
+                  "key.substructure": [
+                    {
+                      "key.bodylength": 5,
+                      "key.bodyoffset": 7117,
+                      "key.kind": "source.lang.swift.expr.argument",
+                      "key.length": 14,
+                      "key.name": "success",
+                      "key.namelength": 7,
+                      "key.nameoffset": 7108,
+                      "key.offset": 7108
+                    },
+                    {
+                      "key.bodylength": 5,
+                      "key.bodyoffset": 7131,
+                      "key.kind": "source.lang.swift.expr.argument",
+                      "key.length": 12,
+                      "key.name": "error",
+                      "key.namelength": 5,
+                      "key.nameoffset": 7124,
+                      "key.offset": 7124
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key.accessibility": "source.lang.swift.accessibility.private",
+          "key.attributes": [
+            {
+              "key.attribute": "source.decl.attribute.private",
+              "key.length": 7,
+              "key.offset": 7187
+            }
+          ],
+          "key.bodylength": 265,
+          "key.bodyoffset": 7263,
+          "key.kind": "source.lang.swift.decl.function.method.instance",
+          "key.length": 334,
+          "key.name": "checkVerified(_:)",
+          "key.namelength": 49,
+          "key.nameoffset": 7200,
+          "key.offset": 7195,
+          "key.substructure": [
+            {
+              "key.kind": "source.lang.swift.decl.generic_type_param",
+              "key.length": 1,
+              "key.name": "T",
+              "key.namelength": 1,
+              "key.nameoffset": 7214,
+              "key.offset": 7214
+            },
+            {
+              "key.kind": "source.lang.swift.decl.var.parameter",
+              "key.length": 31,
+              "key.name": "result",
+              "key.offset": 7217,
+              "key.typename": "VerificationResult<T>"
+            },
+            {
+              "key.elements": [
+                {
+                  "key.kind": "source.lang.swift.structure.elem.expr",
+                  "key.length": 6,
+                  "key.offset": 7279
+                }
+              ],
+              "key.kind": "source.lang.swift.stmt.switch",
+              "key.length": 251,
+              "key.offset": 7272,
+              "key.substructure": [
+                {
+                  "key.elements": [
+                    {
+                      "key.kind": "source.lang.swift.structure.elem.pattern",
+                      "key.length": 11,
+                      "key.offset": 7301
+                    }
+                  ],
+                  "key.kind": "source.lang.swift.stmt.case",
+                  "key.length": 159,
+                  "key.offset": 7296,
+                  "key.substructure": [
+                    {
+                      "key.bodylength": 57,
+                      "key.bodyoffset": 7349,
+                      "key.kind": "source.lang.swift.expr.call",
+                      "key.length": 81,
+                      "key.name": "AppLogger.shared.error",
+                      "key.namelength": 22,
+                      "key.nameoffset": 7326,
+                      "key.offset": 7326,
+                      "key.substructure": [
+                        {
+                          "key.bodylength": 21,
+                          "key.bodyoffset": 7349,
+                          "key.kind": "source.lang.swift.expr.argument",
+                          "key.length": 21,
+                          "key.offset": 7349
+                        },
+                        {
+                          "key.bodylength": 24,
+                          "key.bodyoffset": 7382,
+                          "key.kind": "source.lang.swift.expr.argument",
+                          "key.length": 34,
+                          "key.name": "category",
+                          "key.namelength": 8,
+                          "key.nameoffset": 7372,
+                          "key.offset": 7372
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key.elements": [
+                    {
+                      "key.kind": "source.lang.swift.structure.elem.pattern",
+                      "key.length": 19,
+                      "key.offset": 7469
+                    }
+                  ],
+                  "key.kind": "source.lang.swift.stmt.case",
+                  "key.length": 49,
+                  "key.offset": 7464,
+                  "key.substructure": [
+                    {
+                      "key.bodylength": 8,
+                      "key.bodyoffset": 7479,
+                      "key.kind": "source.lang.swift.expr.call",
+                      "key.length": 19,
+                      "key.name": ".verified",
+                      "key.namelength": 9,
+                      "key.nameoffset": 7469,
+                      "key.offset": 7469,
+                      "key.substructure": [
+                        {
+                          "key.bodylength": 8,
+                          "key.bodyoffset": 7479,
+                          "key.kind": "source.lang.swift.expr.argument",
+                          "key.length": 8,
+                          "key.offset": 7479,
+                          "key.substructure": [
+                            {
+                              "key.kind": "source.lang.swift.decl.var.local",
+                              "key.length": 4,
+                              "key.name": "safe",
+                              "key.namelength": 4,
+                              "key.nameoffset": 7483,
+                              "key.offset": 7483
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "key.typename": "T"
+        },
+        {
+          "key.accessibility": "source.lang.swift.accessibility.internal",
+          "key.bodylength": 59,
+          "key.bodyoffset": 7569,
+          "key.kind": "source.lang.swift.decl.var.instance",
+          "key.length": 90,
+          "key.name": "monthlyProduct",
+          "key.namelength": 14,
+          "key.nameoffset": 7543,
+          "key.offset": 7539,
+          "key.typename": "Product?"
+        },
+        {
+          "key.bodylength": 28,
+          "key.bodyoffset": 7594,
+          "key.kind": "source.lang.swift.expr.call",
+          "key.length": 45,
+          "key.name": "products.first",
+          "key.namelength": 14,
+          "key.nameoffset": 7578,
+          "key.offset": 7578,
+          "key.substructure": [
+            {
+              "key.bodylength": 30,
+              "key.bodyoffset": 7593,
+              "key.kind": "source.lang.swift.expr.argument",
+              "key.length": 30,
+              "key.offset": 7593,
+              "key.substructure": [
+                {
+                  "key.bodylength": 28,
+                  "key.bodyoffset": 7594,
+                  "key.kind": "source.lang.swift.expr.closure",
+                  "key.length": 30,
+                  "key.offset": 7593,
+                  "key.substructure": [
+                    {
+                      "key.bodylength": 28,
+                      "key.bodyoffset": 7594,
+                      "key.kind": "source.lang.swift.stmt.brace",
+                      "key.length": 30,
+                      "key.offset": 7593
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key.accessibility": "source.lang.swift.accessibility.internal",
+          "key.bodylength": 58,
+          "key.bodyoffset": 7668,
+          "key.kind": "source.lang.swift.decl.var.instance",
+          "key.length": 88,
+          "key.name": "yearlyProduct",
+          "key.namelength": 13,
+          "key.nameoffset": 7643,
+          "key.offset": 7639,
+          "key.typename": "Product?"
+        },
+        {
+          "key.bodylength": 27,
+          "key.bodyoffset": 7693,
+          "key.kind": "source.lang.swift.expr.call",
+          "key.length": 44,
+          "key.name": "products.first",
+          "key.namelength": 14,
+          "key.nameoffset": 7677,
+          "key.offset": 7677,
+          "key.substructure": [
+            {
+              "key.bodylength": 29,
+              "key.bodyoffset": 7692,
+              "key.kind": "source.lang.swift.expr.argument",
+              "key.length": 29,
+              "key.offset": 7692,
+              "key.substructure": [
+                {
+                  "key.bodylength": 27,
+                  "key.bodyoffset": 7693,
+                  "key.kind": "source.lang.swift.expr.closure",
+                  "key.length": 29,
+                  "key.offset": 7692,
+                  "key.substructure": [
+                    {
+                      "key.bodylength": 27,
+                      "key.bodyoffset": 7693,
+                      "key.kind": "source.lang.swift.stmt.brace",
+                      "key.length": 29,
+                      "key.offset": 7692
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key.accessibility": "source.lang.swift.accessibility.internal",
+          "key.bodylength": 39,
+          "key.bodyoffset": 7766,
+          "key.kind": "source.lang.swift.decl.function.method.instance",
+          "key.length": 69,
+          "key.name": "isSubscribed()",
+          "key.namelength": 14,
+          "key.nameoffset": 7742,
+          "key.offset": 7737,
+          "key.typename": "Bool"
+        }
+      ]
+    },
+    {
+      "key.accessibility": "source.lang.swift.accessibility.internal",
+      "key.bodylength": 308,
+      "key.bodyoffset": 7843,
+      "key.elements": [
+        {
+          "key.kind": "source.lang.swift.structure.elem.typeref",
+          "key.length": 14,
+          "key.offset": 7827
+        }
+      ],
+      "key.inheritedtypes": [
+        {
+          "key.name": "LocalizedError"
+        }
+      ],
+      "key.kind": "source.lang.swift.decl.enum",
+      "key.length": 342,
+      "key.name": "StoreError",
+      "key.namelength": 10,
+      "key.nameoffset": 7815,
+      "key.offset": 7810,
+      "key.substructure": [
+        {
+          "key.kind": "source.lang.swift.decl.enumcase",
+          "key.length": 23,
+          "key.offset": 7848,
+          "key.substructure": [
+            {
+              "key.accessibility": "source.lang.swift.accessibility.internal",
+              "key.kind": "source.lang.swift.decl.enumelement",
+              "key.length": 18,
+              "key.name": "failedVerification",
+              "key.namelength": 18,
+              "key.nameoffset": 7853,
+              "key.offset": 7853
+            }
+          ]
+        },
+        {
+          "key.kind": "source.lang.swift.decl.enumcase",
+          "key.length": 22,
+          "key.offset": 7876,
+          "key.substructure": [
+            {
+              "key.accessibility": "source.lang.swift.accessibility.internal",
+              "key.kind": "source.lang.swift.decl.enumelement",
+              "key.length": 17,
+              "key.name": "restorationFailed",
+              "key.namelength": 17,
+              "key.nameoffset": 7881,
+              "key.offset": 7881
+            }
+          ]
+        },
+        {
+          "key.accessibility": "source.lang.swift.accessibility.internal",
+          "key.bodylength": 210,
+          "key.bodyoffset": 7939,
+          "key.kind": "source.lang.swift.decl.var.instance",
+          "key.length": 242,
+          "key.name": "errorDescription",
+          "key.namelength": 16,
+          "key.nameoffset": 7912,
+          "key.offset": 7908,
+          "key.typename": "String?"
+        },
+        {
+          "key.elements": [
+            {
+              "key.kind": "source.lang.swift.structure.elem.expr",
+              "key.length": 4,
+              "key.offset": 7955
+            }
+          ],
+          "key.kind": "source.lang.swift.stmt.switch",
+          "key.length": 196,
+          "key.offset": 7948,
+          "key.substructure": [
+            {
+              "key.elements": [
+                {
+                  "key.kind": "source.lang.swift.structure.elem.pattern",
+                  "key.length": 19,
+                  "key.offset": 7975
+                }
+              ],
+              "key.kind": "source.lang.swift.stmt.case",
+              "key.length": 75,
+              "key.offset": 7970
+            },
+            {
+              "key.elements": [
+                {
+                  "key.kind": "source.lang.swift.structure.elem.pattern",
+                  "key.length": 18,
+                  "key.offset": 8059
+                }
+              ],
+              "key.kind": "source.lang.swift.stmt.case",
+              "key.length": 80,
+              "key.offset": 8054
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key.bodylength": 91,
+      "key.bodyoffset": 8183,
+      "key.kind": "source.lang.swift.decl.extension",
+      "key.length": 121,
+      "key.name": "Notification.Name",
+      "key.namelength": 17,
+      "key.nameoffset": 8164,
+      "key.offset": 8154,
+      "key.substructure": [
+        {
+          "key.kind": "source.lang.swift.decl.var.static",
+          "key.length": 85,
+          "key.name": "subscriptionStatusChanged",
+          "key.namelength": 25,
+          "key.nameoffset": 8199,
+          "key.offset": 8188
+        },
+        {
+          "key.bodylength": 27,
+          "key.bodyoffset": 8245,
+          "key.kind": "source.lang.swift.expr.call",
+          "key.length": 46,
+          "key.name": "Notification.Name",
+          "key.namelength": 17,
+          "key.nameoffset": 8227,
+          "key.offset": 8227,
+          "key.substructure": [
+            {
+              "key.bodylength": 27,
+              "key.bodyoffset": 8245,
+              "key.kind": "source.lang.swift.expr.argument",
+              "key.length": 27,
+              "key.offset": 8245
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+❌ No dependencies extracted. Something is wrong!
+2025-02-09 17:50:33 - 🔍 AI Loaded Context:
+👀 Watching for file changes... (Press Ctrl+C to stop)
